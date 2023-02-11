@@ -11,11 +11,10 @@ disableKinds = ["taxonomy", "term"]
 [author]
 
   name = "hophamlam"
-  headline = "mySocialSensei"
+  headline = "👋🐵⌨️👪🍚"
   image = "DSC_8770.JPG"  # path relative to static directory
 
   links = [
-    { link = { href = "https://blog.hophamlam.com/", text = "Blog" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -25,6 +24,7 @@ disableKinds = ["taxonomy", "term"]
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     { github = "https://github.com/hophamlam" },
+    { telegram = "https://t.me/hophamlam" },
     # { gitlab = "https://gitlab.com/hophamlam" },
     # { google = "https://www.google.com/" },
     # { instagram = "https://instagram.com/username" },
@@ -40,18 +40,21 @@ disableKinds = ["taxonomy", "term"]
     # { reddit = "https://reddit.com/user/username" },
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
-    { soundcloud = "https://soundcloud.com/hophamlam" },
     { steam = "https://steamcommunity.com/profiles/76561198053167250" },
-    { telegram = "https://t.me/hophamlam" },
-    { discord = "https://discord.gg/V8rM4zb6" },
+    # { discord = "https://discord.gg/V8rM4zb6" },
 
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-    { twitter = "https://twitter.com/hophamlam" },
+    # { twitter = "https://twitter.com/hophamlam" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
     # { email = "mailto:hophamlam@yahoo.com" },
+    { soundcloud = "https://soundcloud.com/hophamlam" },
+
+    { link = { href = "https://blog.hophamlam.com/", text = "Blog" } },
+
+
 
   ]
 
