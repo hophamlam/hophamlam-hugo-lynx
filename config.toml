@@ -40,7 +40,7 @@ disableKinds = ["taxonomy", "term"]
     # { reddit = "https://reddit.com/user/username" },
     # { slack = "https://workspace.url/team/userid" },
     # { snapchat = "https://snapchat.com/add/username" },
-    { steam = "https://steamcommunity.com/profiles/76561198053167250" },
+    # { steam = "https://steamcommunity.com/profiles/76561198053167250" },
     # { discord = "https://discord.gg/V8rM4zb6" },
 
     # { tiktok = "https://tiktok.com/@username" },
@@ -50,11 +50,12 @@ disableKinds = ["taxonomy", "term"]
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
     # { email = "mailto:hophamlam@yahoo.com" },
-    { soundcloud = "https://soundcloud.com/hophamlam" },
+    
 
     { hashnode = { href = "https://blog.hophamlam.com/", text = "Hashnode" } },
-
-
+    { zalo = { href = "https://zalo.me/0901467300", text = "Zalo" } },
+    # { link = { href = "more/", text = "More", target = "_self" } },
+    { soundcloud = "https://soundcloud.com/hophamlam" },
 
   ]
 
@@ -62,3 +63,10 @@ disableKinds = ["taxonomy", "term"]
   [module.hugoVersion]
     extended = false
     min = "0.86.1"
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true

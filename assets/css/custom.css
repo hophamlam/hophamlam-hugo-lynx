@@ -2,3 +2,11 @@
   background: rgb(0, 89, 255);
   background: linear-gradient(90deg, rgb(0, 89, 255) 50%);
 }
+.link-zalo {
+  background: linear-gradient(
+    90deg,
+    rgb(58, 125, 180) 0%,
+    rgb(29, 126, 253) 50%,
+    rgb(69, 127, 252) 100%
+  );
+}
