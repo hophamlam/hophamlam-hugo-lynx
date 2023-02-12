@@ -52,7 +52,7 @@ disableKinds = ["taxonomy", "term"]
     # { email = "mailto:hophamlam@yahoo.com" },
     { soundcloud = "https://soundcloud.com/hophamlam" },
 
-    { link = { href = "https://blog.hophamlam.com/", text = "Hashnode" } },
+    { hashnode = { href = "https://blog.hophamlam.com/", text = "Hashnode" } },
 
 
 
