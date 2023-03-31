@@ -53,7 +53,7 @@ disableKinds = ["taxonomy", "term"]
     
 
     { zalo = { href = "https://zalo.me/0901467300", text = "Zalo" } },
-    { hashnode = { href = "https://blog.hophamlam.com/", text = "Hashnode" } },
+    { hashnode = { href = "https://hashnode.hophamlam.com/", text = "Hashnode" } },
     # { link = { href = "more/", text = "More", target = "_self" } },
     { soundcloud = "https://soundcloud.com/hophamlam" },
 
